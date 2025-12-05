@@ -37,6 +37,7 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **Redes d
 - Cibersegurança e aplicações práticas.
 - Análise de Dados.
 - Melhoria de lógica e boas práticas de programação.
+- Visão Computacional e Aplicações de IA.
 
 ---
 
