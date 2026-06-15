@@ -28,6 +28,9 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **Redes d
   <a href="https://github.com/joaogabrielabreu/POO-Estacionamento-Inteligente">
     <img src="https://img.shields.io/badge/🅿️ Estacionamento (POO)-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sistema de Estacionamento" />
   </a>
+  <a href="https://github.com/gabrielcamargo01/golscript">
+    <img src="https://img.shields.io/badge/ ⚽golscript -181717?style=for-the-badge&logo=github&logoColor=white" alt="linguagem de programação" />
+  </a>
 </p>
 
 ---
