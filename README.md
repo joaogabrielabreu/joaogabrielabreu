@@ -36,11 +36,11 @@ Sou estudante de **Engenharia de Computação na UFG**, apaixonado por **Redes d
 ---
 
 ## 🌱 Atualmente Estudando
-- Python para Análise de Redes.
+- Python para Automações, Análise de Redes e Scripts.
 - Cibersegurança e aplicações práticas.
-- Análise de Dados.
+- Análise de Dados e BigData.
 - Melhoria de lógica e boas práticas de programação.
-- Visão Computacional e Aplicações de IA.
+- Uso de LLM's e Aplicações de IA voltados ao mercado.
 ---
 
 ## 📈 Estatísticas do GitHub
